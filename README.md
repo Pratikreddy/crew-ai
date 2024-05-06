@@ -1,8 +1,5 @@
 # CrewAI Property Research
-Build a crew ai crew that performs property research using Ollama.
-
-## See it live and in action 📺
-<img src="https://i.imgur.com/vcaXbXO.jpeg"/>
+Build a crew ai crew that performs property research using gpt.
 
 # Startup 🚀
 `pip install 'crewai[tools]'`
