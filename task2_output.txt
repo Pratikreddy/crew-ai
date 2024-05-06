@@ -1,0 +1,12 @@
+- **Suburb 1: Indira Nagar**
+  - Mean Price: ₹12,500 per sq ft
+  - Low Price: ₹3.03 lacs for entry-level properties
+  - Max Price: ₹3.96 crore for premium properties
+  - Rental Vacancy: Information not available
+  - Rental Yield: 5%
+  - Notable Features:
+    - Cosmopolitan culture with wealthy neighbourhoods
+    - Diverse residential options including apartments and luxury homes
+    - Well-connected infrastructure
+    - Consistent growth in property values
+    - A promising area for investment within Bangalore
